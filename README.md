@@ -1,0 +1,2 @@
+# Termux-MINIMAX-adapter
+用于手机运行Termux将minimax官网语音模型API转为适配OpenAI协议接口以接入OMATE的python代码。
