@@ -109,12 +109,3 @@ MIT License
 
 欢迎提交Issue和Pull Request！
 ```
-
-## 🎯 GitHub仓库建议结构
-
-```
-minimax-openai-adapter/
-├── minimax_adapter_final.py  # 主程序
-├── README.md                 # 说明文档
-└── requirements.txt          # 依赖列表
-```
